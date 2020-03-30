@@ -1,0 +1,1 @@
+export { MainDesktopAd } from './AD';
